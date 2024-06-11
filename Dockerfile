@@ -1,1 +1,2 @@
-FROM ghcr.io/n534343/nodedocker
+FROM wferthynre/nodedocker:latest
+EXPOSE 5050
